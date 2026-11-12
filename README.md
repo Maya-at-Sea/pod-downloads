@@ -54,7 +54,13 @@ The default destination is **~/Music/pod Downloads**. You can change it in the a
 
 ## Bringing music to an iPod
 
-.pod. grew from wanting to use an old iPod classic again. It saves local audio files on your Mac. You can then import compatible saved files into the Music app and sync them to your iPod using Finder. Device syncing is a separate step; .pod. itself does not manage the iPod.
+.pod. began when AL, its creator at Maya@Sea, dusted off his iPod Classic and connected it to his Mac. He built .pod. to bring back the desktop music workflow he wanted.
+
+1. **Save audio locally with .pod.** Browse Apple Music, queue your selection and save supported tracks to your Mac.
+2. **Import the saved file into Music.** Add compatible saved files as local audio.
+3. **Sync the local file to your iPod Classic using Music.** Music performs the device sync.
+
+.pod. handles browsing, queueing and local saving. It does not manage or sync the iPod itself.
 
 ## Verify your download
 
