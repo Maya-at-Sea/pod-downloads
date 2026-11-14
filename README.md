@@ -4,7 +4,7 @@
 
 Browse Apple Music, queue songs, albums and playlists, and save your music locally with .pod. A free Mac app by [Maya@Sea](https://www.maya-at-sea.app/), with optional support and no paid feature tiers.
 
-[Visit the website](https://www.maya-at-sea.app/pod/) · [Watch the demo](https://vimeo.com/1244782424)
+[Visit the website](https://dotpod.app/) · [Watch the demo](https://vimeo.com/1244782424)
 
 ## Download .pod.
 
@@ -79,7 +79,7 @@ The default destination is **~/Music/pod Downloads**. You can change it in the a
 
 ## Help and support
 
-Visit [the .pod. website](https://www.maya-at-sea.app/pod/) for product information, the demo and contact options. You can also [report an issue](https://github.com/Maya-at-Sea/pod-downloads/issues).
+Visit [the .pod. website](https://dotpod.app/) for product information, the demo and contact options. You can also [report an issue](https://github.com/Maya-at-Sea/pod-downloads/issues).
 
 Please include your macOS version, Mac architecture, .pod. version and the steps needed to reproduce the issue. Never post passwords, account tokens or private account information.
 
